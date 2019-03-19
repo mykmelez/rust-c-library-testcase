@@ -1,5 +1,5 @@
 [package]
-name = "testcase"
+name = "rust-c-library-testcase"
 version = "0.1.0"
 authors = ["Myk Melez <myk@mykzilla.org>"]
 edition = "2018"
